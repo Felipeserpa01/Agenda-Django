@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Ayu Dark",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.advanced": {
+
+    },
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "files.autoSave": "afterDelay",
+    "code-runner.runInTerminal": true,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.iconTheme": "ayu",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 13,
+    "explorer.compactFolders": false,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        
+        "python": " clear; python3 -u",
+      
+   },
+   "code-runner.ignoreSelection": true,
+"python.defaultInterpreterPath": "python"
+}
