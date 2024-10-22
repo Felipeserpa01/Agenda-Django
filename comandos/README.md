@@ -7,4 +7,4 @@ python3 -m venv venv
 pip3 install django
 django-admin startproject project .
 
-configurar o git
+configurar o gitaa
