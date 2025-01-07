@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Ayu Dark",
+    "workbench.colorTheme": "Monokai Pro",
     "editor.inlineSuggest.enabled": true,
     "github.copilot.advanced": {
 
@@ -14,7 +14,7 @@
     "code-runner.runInTerminal": true,
     "github.copilot.editor.enableAutoCompletions": true,
     "diffEditor.ignoreTrimWhitespace": false,
-    "workbench.iconTheme": "ayu",
+    "workbench.iconTheme": "material-icon-theme",
     "liveServer.settings.donotShowInfoMsg": true,
     "editor.fontSize": 13,
     "explorer.compactFolders": false,
